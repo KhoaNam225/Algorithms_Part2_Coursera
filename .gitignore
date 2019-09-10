@@ -1,0 +1,8 @@
+*.txt
+.classpath
+.project
+*.png
+*.class
+*.jar
+.vscode
+bin
