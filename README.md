@@ -22,13 +22,12 @@ This repository contains 5 assignments:
  This is the definition of Seam Carving from the specification:  
  Seam-carving is a content-aware image resizing technique where the image is reduced in size by one pixel of height (or width) at a time. A 
  vertical seam in an image is a path of pixels connected from the top to the bottom with one pixel in each row; a horizontal seam is a path 
- of pixels connected from the left to the right with one pixel in each column. Below left is the original 505-by-287 pixel image; below 
- right is the result after removing 150 vertical seams, resulting in a 30% narrower image. Unlike standard content-agnostic resizing 
+ of pixels connected from the left to the right with one pixel in each column. Unlike standard content-agnostic resizing 
  techniques (such as cropping and scaling), seam carving preserves the most interest features (aspect ratio, set of objects present, etc.) 
- of the image.
+ of the image.  
  Demo video for seam carving: https://www.youtube.com/watch?v=6NcIJXTlugc  
  Your task is to build the SeamCarver class that can import an image (2D array pixels), process it using Digraph processing algorithms 
- and export another image that is smaller than the original image but still keep the important information.
+ and export another image that is smaller than the original image but still keep the important information.  
  Link to the assignment specification: https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php
  ### 3. Baseball Elimination (Maxflow problem)
  This is the definition of the baseball elimination problem grom Wikipedia: https://en.wikipedia.org/wiki/Maximum_flow_problem#Baseball_elimination  
@@ -40,9 +39,9 @@ This repository contains 5 assignments:
  Link to the assignment specification: https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php
  ### 5. Burrows-Wheeler (Data compression)
  Your task is to implement the Burrows-Wheeler algorithm for data compression. The Burrows-Wheeler algorithm contains 3 steps:  
-    - Burrows-Wheeler transforming
-    - Move-to-front encoding
-    - Huffman encoding
+    - Burrows-Wheeler transforming  
+    - Move-to-front encoding  
+    - Huffman encoding  
  You have to implement the first 2 steps from the algorithm.  
  Link to the assignment specification: https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php
  ## How to run the solution
