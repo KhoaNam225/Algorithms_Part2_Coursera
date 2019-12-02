@@ -1,6 +1,6 @@
 # Algorithms Part 1 (By Princeton University) Assignments
 A repository containing the source code for the assignments in Algorithm Part 1 on Coursera.org.  
-Link of the course: https://www.coursera.org/learn/algorithms-part2
+Link of the course: https://www.coursera.org/learn/algorithms-part2  
 This repository contains 5 assignments:
   - WordNet (Graph Processing)
   - SeamCarving (Graph Processing)
